@@ -8,7 +8,7 @@ Use grid to layout the divs so that any overflow returns to the next line as sho
 
 ![Final result](images/task1-after.png)
 
-> [Download the starting point for this task](https://github.com/kingsley-ijomah/grid-assessment/blob/main/task-1.html) to work in your own editor.
+> [Download the starting point for this task](https://github.com/kingsley-ijomah/grid-assessment-solution/blob/main/task-1.html) to work in your own editor.
 
 ## Task 2
 
@@ -16,7 +16,7 @@ Use grid to overlay one box over the other as shown in the completed example bel
 
 ![Final result](images/task2-after.png)
 
-> [Download the starting point for this task](https://github.com/kingsley-ijomah/grid-assessment/blob/main/task-2.html) to work in your own editor.
+> [Download the starting point for this task](https://github.com/kingsley-ijomah/grid-assessment-solution/blob/main/task-2.html) to work in your own editor.
 
 ## Task 3
 
@@ -24,4 +24,4 @@ Explore grid areas, update existing code to produce the example below:
 
 ![Final result](images/task3-after.png)
 
-> [Download the starting point for this task](https://github.com/kingsley-ijomah/grid-assessment/blob/main/task-3.html) to work in your own editor.
+> [Download the starting point for this task](https://github.com/kingsley-ijomah/grid-assessment-solution/blob/main/task-3.html) to work in your own editor.
